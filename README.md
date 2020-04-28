@@ -1,9 +1,10 @@
-# -SI699-Isabel-Healthcare-Disease-Classifier
-There are two code files: 
+# SI699 Isabel Healthcare Rare Disease Analysis and Classifier
+There are two code files(Python - ipynb), one final report(pdf) and  one tableau(twb) file in this repository.
 
 1) 'creating_dataframe_and_baselines.ipynb': Code for data-preprocessing and baselines
 2) 'Final_Code_Isabel.ipynb': Code for pseudo labeling model and further optimizations including PCA and the three main classifiers: Random Forest, kNN and Ridge Regression.
 
+Summary: 
 Disease speciality classifier using Pseudo labeling
 Isabel Healthcare provides an online symptom checker that allows users to input their demographic information and symptoms, then predicts potential diseases. Partnering with Isabel Healthcare, our team was tasked with analyzing the demographics of users that were predicted to have rare diseases or diseases that take years to diagnose. Isabel Healthcare’s goal is to better understand this subset of users and demonstrate the ability of their tool to recognize rare diseases. They hope to better market the symptom checker tool and partner with hospitals and disease support foundations. These partnerships would increase access, awareness, and usage of Isabel Healthcare’s tool, giving users more well-rounded ideas of potential diagnoses based on their conditions.
 
